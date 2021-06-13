@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="textview_string">TextView</string>
+    <string name="_1_string">1</string>
+    <string name="paina_string">Paina</string>
+</resources>
